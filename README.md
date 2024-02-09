@@ -1,2 +1,2 @@
 # git_demo
-these is my firsr git demo pratice
+these is my first git demo pratice
